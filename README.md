@@ -1,7 +1,7 @@
 # 🚀 CodeAlpha Python Internship Projects
 
 ## 👨‍💻 Author
-Kadbhane Bhausaheb Parmeshwer
+**Kadbhane Bhausaheb Parmeshwer**
 📧 Email: bhausahebkadbhane547@gmail.com
 📱 Phone: 9699095379
 
